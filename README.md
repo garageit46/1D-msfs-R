@@ -1,6 +1,6 @@
 Calculate 1D-folded SFS from VCF and population.log files of stacks using R
 ======
-* This script calculate observed 1D-folded SFS (minor allele frequency spectrum) for stairway plot.
+* This script calculate observed 1D-folded SFS (minor allele frequency spectrum) for stairway plot. <https://github.com/xiaoming-liu/stairway-plot-v2>
 * It uses stacks output (populations.log and vcf files).
 * Missing data is compensated by a bootstrapping.
 * It outputs basic information and SFS as .csv and .txt files, respectively.

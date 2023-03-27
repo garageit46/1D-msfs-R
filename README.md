@@ -8,7 +8,7 @@ Calculate 1D-folded SFS from VCF and population.log files of stacks using R
 
 Example
 ------
-Example for calculation of 1D folded SFS
+Example for calculation of 1D-folded SFS
 
 ```R
     source("r230327calc_sfs.r")
